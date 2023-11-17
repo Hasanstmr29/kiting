@@ -50,11 +50,11 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>123</td>
-                                <td>tamam</td>
+                                <td>2109020151</td>
+                                <td>Hasan a situmorang</td>
                                 <td>pria</td>
-                                <td>1-januari-1999</td>
-                                <td>medan</td>
+                                <td>29-january-2003</td>
+                                <td>Dolok sanggul</td>
                             </tr>
                         </tbody>
                 </table>
